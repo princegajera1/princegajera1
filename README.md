@@ -5,12 +5,11 @@
 
 <!-- Typing SVG -->
 <a href="https://github.com/princegajera1">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Prince+Gajera+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Learner+%F0%9F%8C%B1;Building+Real+World+Projects+%F0%9F%94%A5;GTU+Engineering+Student+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Prince+Gajera+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Learner+%F0%9F%8C%B1;Building+Real+World+Projects+%F0%9F%94%A5;UI%2FUX+Enthusiast+%F0%9F%8E%A8" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views & Socials -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=princegajera1&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
   &nbsp;
@@ -28,13 +27,11 @@
 ```yaml
 Name     : Prince Gajera
 Role     : Full Stack Developer
-College  : GTU Engineering
+Focus    : MERN Stack + Modern UI/UX
 Location : Gujarat, India 🇮🇳
-Focus    : MERN Stack + Modern UI
 Status   : Open to Opportunities ✅
 ```
 
-- 🎓 **GTU Engineering Student** — building industry-ready skills
 - 💻 **Full Stack Developer** — from pixel-perfect UI to robust backend
 - 🔥 **Project Builder** — real-world apps, not just tutorials
 - 🌱 **Currently Learning** — MERN Stack & advanced React patterns
@@ -79,19 +76,73 @@ Status   : Open to Opportunities ✅
 
 <div align="center">
 
-| 🛒 Chandrakant Traders | 🤖 AI Chatbot |
-|:---|:---|
-| **Tyre & Tube Shop Management System** | **Modern AI-powered Chatbot App** |
-| Inventory tracking, billing system, and Firebase backend integration | JavaScript-based chatbot with real-time API integration |
-| ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![API](https://img.shields.io/badge/REST_API-005571?style=flat&logo=fastapi&logoColor=white) |
-| [View Project →](https://github.com/princegajera1) | [View Project →](https://github.com/princegajera1) |
+### 🛒 Chandrakant Traders
+**Tyre & Tube Shop Management System**
 
-| ☕ Coffee Website | 👟 Nike Landing Page |
-|:---|:---|
-| **Responsive Cafe Landing Page UI** | **Nike-inspired Responsive Website** |
-| Clean, modern design with smooth animations | Professional product-showcase design with mobile-first layout |
-| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
-| [View Project →](https://github.com/princegajera1) | [View Project →](https://github.com/princegajera1) |
+> Inventory tracking, billing system, and Firebase backend integration — a complete business management solution built for real-world use.
+
+<p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</p>
+
+<a href="https://github.com/princegajera1/chandrakant-traders" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Project-%E2%86%92-0e75b6?style=for-the-badge&logo=github"/>
+</a>
+
+---
+
+### 🤖 AI Chatbot
+**Modern AI-powered Chatbot Web App**
+
+> JavaScript-based chatbot with real-time API integration, featuring a sleek UI and smart conversational responses.
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</p>
+
+<a href="https://github.com/princegajera1/ai-chatbot" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Project-%E2%86%92-0e75b6?style=for-the-badge&logo=github"/>
+</a>
+
+---
+
+### ☕ Coffee Website
+**Responsive Cafe Landing Page UI**
+
+> Clean, modern design with smooth animations — a fully responsive cafe landing page built with pure HTML & CSS.
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+<a href="https://github.com/princegajera1/coffee-website" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Project-%E2%86%92-0e75b6?style=for-the-badge&logo=github"/>
+</a>
+
+---
+
+### 👟 Nike Landing Page
+**Nike-inspired Responsive Website**
+
+> Professional product-showcase design with mobile-first layout — built with React and Tailwind CSS.
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+<a href="https://github.com/princegajera1/nike-landing-page" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Project-%E2%86%92-0e75b6?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
 
@@ -124,16 +175,23 @@ Status   : Open to Opportunities ✅
   <img src="https://github-profile-trophy.vercel.app/?username=princegajera1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
 </div>
 
----
 
 ## 🌐 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/princegajera1)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourgmail@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/princegajera1)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://princegajera1.github.io)
+<a href="https://linkedin.com/in/princegajera1" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:yourgmail@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/princegajera1" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://princegajera1.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 
 </div>
 
@@ -143,14 +201,14 @@ Status   : Open to Opportunities ✅
 
 <div align="center">
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+> *"First, solve the problem. Then, write the code."*
 
-```
+```javascript
 while (alive) {
-    eat();
-    sleep();
-    code();
-    repeat();
+  eat();
+  sleep();
+  code();
+  repeat();
 }
 ```
 
@@ -160,7 +218,7 @@ while (alive) {
 
 <div align="center">
 
-**🚀 If you find my work interesting, consider giving a ⭐ to my repositories!**
+**🚀 If you find my work interesting, drop a ⭐ on my repositories — it means a lot!**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
