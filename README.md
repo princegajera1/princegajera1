@@ -1,15 +1,4 @@
-## Hi there 👋
-
-<!--
-**princegajera1/princegajera1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...<h1 align="center">Hi 👋, I'm Prince Gajera</h1>
+<h1 align="center">Hi 👋, I'm Prince Gajera</h1>
 <h3 align="center">Full Stack Developer | MERN Stack | UI/UX Enthusiast</h3>
 
 <p align="center">
@@ -81,7 +70,3 @@ AI Chatbot using JavaScript.
 ## 🌐 Connect With Me
 
 [LinkedIn](https://linkedin.com/)
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
