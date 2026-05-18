@@ -10,11 +10,7 @@
 
 <br/>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=princegajera1&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/princegajera1?label=Followers&style=for-the-badge&color=0e75b6&labelColor=000" alt="Followers"/>
-</p>
+
 
 </div>
 
